@@ -88,7 +88,8 @@ chmod -R 775 ./storage
 
 Após rodar o comando de buildar os containers o frontend já estará pronto, apenas configure a .env 
 
-![image](https://github.com/Wallacewss2033/desafio-tecnico/assets/39920409/a5de785e-be4e-4ee0-8977-2ba33463e1b8)
+![image](https://github.com/Wallacewss2033/desafio-tecnico/assets/39920409/25d1c3b2-5c60-4154-9e6c-79499577c63f)
+
 
 
 
